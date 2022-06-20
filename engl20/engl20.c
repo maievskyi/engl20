@@ -4,7 +4,7 @@
 //
 //
 #define _CRT_SECURE_NO_WARNINGS  //   ?? подробнее об предупреждениях ??
-
+//20 06 2022 Начало работы над проектом tngl20
 #include<stdlib.h>
 #include<stdio.h>
 #include <string.h>
