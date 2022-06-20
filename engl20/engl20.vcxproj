@@ -110,6 +110,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="engl20.c" />
+    <ClCompile Include="engllib20.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="engl20.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
