@@ -1,10 +1,10 @@
-﻿//.............��������� �� ASUS1015   ...........
+﻿//.......................работаю в ветке master_dubl  ................
 //
 //
 //
 //
-#define _CRT_SECURE_NO_WARNINGS  //   ?? ��������� �� ��������������� ??
-//20 06 2022 ������ ������ ��� �������� tngl20
+#define _CRT_SECURE_NO_WARNINGS  //   ?? подробнее об предупреждениях ??
+//20 06 2022 Начало работы над проектом tngl20
 #include<stdlib.h>
 #include<stdio.h>
 #include <string.h>
@@ -18,7 +18,7 @@ int main(int argc, const char ** argv, const char** env)
 {
 
 	system("chcp 1251 > nul");
-	errno_t err;			//  ���������� (int?) ��� ������ ������ ? ����� ���������� (int?)
+	errno_t err;			//  переменная (int?) для вывода ошибок ? внутр переменная (int?)
 
 
 
